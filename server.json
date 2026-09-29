@@ -1,0 +1,10 @@
+{
+  "name": "ast-grep",
+  "display": "ast-grep",
+  "description": "Batch structural code searches with compact results to reduce model round trips.",
+  "deps": {
+    "@ast-grep/cli": "0.45.3"
+  },
+  "bin": "ast-grep"
+}
+

@@ -1,0 +1,20 @@
+{
+  "name": "ast-grep",
+  "version": "0.2.0",
+  "description": "Batch structural code searches with compact results to reduce model round trips.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/ast-grep#readme",
+  "repository": "https://github.com/PedroAVJ/ast-grep",
+  "license": "MIT",
+  "keywords": [
+    "ast-grep",
+    "structural-search",
+    "syntax-tree",
+    "code-search",
+    "batch"
+  ],
+  "skills": "./skills/"
+}

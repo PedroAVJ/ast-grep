@@ -1,0 +1,37 @@
+{
+  "name": "ast-grep",
+  "version": "0.2.0",
+  "description": "Batch structural code searches with compact results to reduce model round trips.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/ast-grep#readme",
+  "repository": "https://github.com/PedroAVJ/ast-grep",
+  "license": "MIT",
+  "keywords": [
+    "ast-grep",
+    "structural-search",
+    "syntax-tree",
+    "code-search",
+    "batch"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ast-grep",
+    "shortDescription": "Batch structural code searches with compact results to reduce model round trips.",
+    "longDescription": "Batch structural code searches with compact results to reduce model round trips. Local deterministic tools; no model API calls or permanent indexer.",
+    "developerName": "PedroAVJ",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Find every call shaped like this pattern across the repository",
+      "Batch these structural code searches in one query"
+    ],
+    "brandColor": "#4338CA",
+    "composerIcon": "./assets/ast-grep-icon.svg",
+    "logo": "./assets/ast-grep-icon.svg"
+  }
+}
