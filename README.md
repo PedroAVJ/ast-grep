@@ -4,11 +4,11 @@ Batch structural code searches with compact results to reduce model round trips.
 
 ## Install
 
-From the [Package Manager](https://github.com/PedroAVJ/package-manager) marketplace:
+From the [Package Manager](https://github.com/PedroAVJ/near) marketplace:
 
 ```sh
-codex plugin add ast-grep@package-manager
-claude plugin install ast-grep@package-manager
+codex plugin add ast-grep@near
+claude plugin install ast-grep@near
 ```
 
 Self-contained plugin for Codex and Claude Code: both client manifests, skill-exposed CLI. No MCP daemon/editor extension required.
